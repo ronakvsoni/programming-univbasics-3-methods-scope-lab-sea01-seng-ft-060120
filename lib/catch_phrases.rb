@@ -19,6 +19,7 @@ link
 
 def all_phrases 
   puts mario
+  puts 
 
 
 
